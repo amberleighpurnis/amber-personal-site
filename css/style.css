@@ -121,6 +121,9 @@ p {
   .sample-img {
     display: none;
   }
+  .title {
+    text-align: center;
+  }
 
   .project-link {
     display: block;
